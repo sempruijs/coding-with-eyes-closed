@@ -5,6 +5,8 @@
 
 - [Where to start?](where-to-start/whero-to-start.md)
   - [Operating system](./where-to-start/operating-system.md)
+  - [Screen readers](where-to-start/screen-reader.md)
+  - [Should I learn braille?](where-to-start/braille.md)
   - [Which websites are accessible?](where-to-start/screenreader.md)
 
 - [Which tools are accessible?](./tooling/which-tools-are-accessible.md)
@@ -16,11 +18,10 @@
   - [Why dynamic types are even worse for someone with an visual impairment](./languages/dts.md)
   - [We do not hear indentation](languages/indentation.md)
 
-- [Overcomming obstacels](./mental/mental.md)
-  - [I am so tired]()
-  - [Why am I slow?]()
-  - [This is too hard]()
-  - [Maybe I should switch jobs]()
+- [Overcomming obstacles](./mental/mental.md)
+  - [This costs so much energie](mental/energie.md)
+  - [I am way too slow](mental/slow.md)
+  - [This is too hard. Maybe I should switch jobs](mental/too-hard.md)
 
 - [Exercises](exercises/exercises.md)
   - [Ready to code?](exercises/code/code.md)
@@ -36,5 +37,6 @@
     - [Star a repository](exercises/github/star.md)
     - [Hearme.md](exercises/github/hearme.md)
     - [Make an issue](exercises/github/issue.md)
+    - [Helping the blind](exercises/github/helping-the-blind.md)
 - [Thank you!](thank-you/thankyou.md)
 - [About me](aboutme/aboutme.md)
