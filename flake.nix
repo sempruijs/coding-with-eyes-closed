@@ -15,9 +15,22 @@
       perSystem = { config, self', inputs', pkgs, system, ... }:
         let
         in {
-          packages = {
+          packages = rec {
             # add build phases here
-            # default = 
+            default = site;
+            site = pkgs.stdenv.mkDerivation {
+              buildInputs = with pkgs; [ mdbook ];
+              src = ./code-with-eyes-closed;
+              name = "code-with-eyes-closed";
+              buildPhase = ''
+                mdbook build
+              '';
+
+              installPhase = ''
+                mkdir $out
+                cp -r book $out/.
+              '';
+            };
           };
           devShells = {
             default = pkgs.mkShell {
