@@ -1,0 +1,6 @@
+[book]
+authors = ["Sem Pruijs"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Coding with eyes closed"

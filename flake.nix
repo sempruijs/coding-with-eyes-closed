@@ -35,7 +35,7 @@
           devShells = {
             default = pkgs.mkShell {
               # add your developer tools here
-              buildInputs = with pkgs; [ mdbook ];
+              buildInputs = with pkgs; [ mdbook ltex-ls ];
             };
           };
         };

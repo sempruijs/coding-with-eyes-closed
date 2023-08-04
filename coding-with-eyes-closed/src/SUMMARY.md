@@ -1,0 +1,40 @@
+# Summary
+
+- [Introduction](./introduction/introduction.md)
+  - [Motivation](./introduction/motivation.md)
+
+- [Where to start?](where-to-start/whero-to-start.md)
+  - [Operating system](./where-to-start/operating-system.md)
+  - [Which websites are accessible?](where-to-start/screenreader.md)
+
+- [Which tools are accessible?](./tooling/which-tools-are-accessible.md)
+  - [Goodbye terminal life](./tools/goodbye-terminal-life.md)
+  - [What's the most accessible editor?](tools/editor.md)
+  - [Navigating websites](tools/websites.md)
+
+- [What language should I use?](languages/langues.md)
+  - [Why dynamic types are even worse for someone with an visual impairment](./languages/dts.md)
+  - [We do not hear indentation](languages/indentation.md)
+
+- [Overcomming obstacels](./mental/mental.md)
+  - [I am so tired]()
+  - [Why am I slow?]()
+  - [This is too hard]()
+  - [Maybe I should switch jobs]()
+
+- [Exercises](exercises/exercises.md)
+  - [Ready to code?](exercises/code/code.md)
+    - [Hello syntax!](exercises/code/hello-syntax.md)
+    - [Hello world!](exercises/code/hello-world.md)
+    - [Advent of code](exercises/code/advent-of-code.md)
+  - [Terminal](exercises/terminal/terminal.md)
+    - [Navigating your files](exercises/terminal/files.md)
+    - [git init](exercises/terminal/git.md)
+    - [localhost](exercises/terminal/localhost.md)
+  - [GitHub](exercises/github.md)
+    - [Login](exercises/github/login.md)
+    - [Star a repository](exercises/github/star.md)
+    - [Hearme.md](exercises/github/hearme.md)
+    - [Make an issue](exercises/github/issue.md)
+- [Thank you!](thank-you/thankyou.md)
+- [About me](aboutme/aboutme.md)
