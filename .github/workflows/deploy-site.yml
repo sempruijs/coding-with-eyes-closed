@@ -1,0 +1,34 @@
+name: deploy-site
+on:
+  push:
+    branches: [ "main" ]
+    
+jobs:
+  build-website:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: cd ${{ github.workspace }}
+      - uses: cachix/install-nix-action@v18
+      - run: nix build .#site -L && cp --recursive --dereference --no-preserve=mode,ownership result public
+      - uses: actions/configure-pages@v2
+      - uses: actions/upload-pages-artifact@v1
+        with:
+          path: './public'
+      
+  deploy:
+    needs: build-website
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
