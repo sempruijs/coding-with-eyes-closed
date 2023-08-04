@@ -1,3 +1,2 @@
-# 1.1 Motivation?
+# 1.1 Motivation
 
-the bananas is tasty.

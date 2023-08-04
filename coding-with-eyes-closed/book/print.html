@@ -168,8 +168,7 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="1-introduction"><a class="header" href="#1-introduction">1. Introduction</a></h1>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="11-motivation"><a class="header" href="#11-motivation">1.1 Motivation?</a></h1>
-<p>the bananas is tasty.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="11-motivation"><a class="header" href="#11-motivation">1.1 Motivation</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="where-to-start"><a class="header" href="#where-to-start">where to start?</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="operating-system"><a class="header" href="#operating-system">Operating system</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="screen-reader"><a class="header" href="#screen-reader">screen reader</a></h1>
@@ -215,22 +214,6 @@
 
         </div>
 
-        <!-- Livereload script (if served using the cli tool) -->
-        <script>
-            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
-            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
-            const socket = new WebSocket(wsAddress);
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
 
 
 
