@@ -17,6 +17,8 @@
 - [What language should I use?](languages/langues.md)
   - [Why dynamic types are even worse for someone with an visual impairment](./languages/dts.md)
   - [We do not hear indentation](languages/indentation.md)
+  - [Avoid state](languages/avoid-state.md)
+  - [Why tests are so important for us](languages/tests.md)
 
 - [Overcomming obstacles](./mental/mental.md)
   - [This costs so much energie](mental/energie.md)

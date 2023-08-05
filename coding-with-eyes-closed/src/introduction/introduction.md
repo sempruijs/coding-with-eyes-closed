@@ -28,4 +28,4 @@ I've put allot of time in this book, so if you find this useful, please consider
 
 ### Contributing
 
-English is not my native language and I have dyslexia. If you find a spellmistake, please concider opening a issue or a pull request on [the repo](https://github.com/sempruijs/coding-with-eyes-closed).
+English is not my native language and I have dyslexia. If you find a spellmistake, please consider opening a issue or a pull request on [the repo](https://github.com/sempruijs/coding-with-eyes-closed).
