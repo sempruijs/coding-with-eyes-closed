@@ -4,8 +4,8 @@
   - [Motivation](./introduction/motivation.md)
 
 - [Where to start?](where-to-start/whero-to-start.md)
-  - [Operating system](./where-to-start/operating-system.md)
-  - [Screen readers](where-to-start/screen-reader.md)
+  - [Operating systems](./where-to-start/operating-systems.md)
+  - [Screen readers](where-to-start/screen-readers.md)
   - [Should I learn braille?](where-to-start/braille.md)
   - [Which websites are accessible?](where-to-start/screenreader.md)
 
