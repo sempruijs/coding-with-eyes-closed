@@ -12,8 +12,8 @@ If you do not like those voices of a screenreader, you still need a screenreader
 
 Here are some sources if you want to learn more about screenreaders:
 
-- [wikipedia - screenreader](https://en.wikipedia.org/wiki/Screen_reader)
-- [youtube - VoiceOver on iPhone](https://www.youtube.com/watch?v=qDm7GiKra28)
+- [screenreader - Wikipedia](https://en.wikipedia.org/wiki/Screen_reader)
+- [VoiceOver on iPhone - youtube](https://www.youtube.com/watch?v=qDm7GiKra28)
 
 
 ### I don't need a screenreader
