@@ -7,7 +7,6 @@
   - [Operating systems](./where-to-start/operating-systems.md)
   - [Screen readers](where-to-start/screen-readers.md)
   - [Should I learn braille?](where-to-start/braille.md)
-  - [Which websites are accessible?](where-to-start/screenreader.md)
 
 - [Which tools are accessible?](./tooling/which-tools-are-accessible.md)
   - [Goodbye terminal life](./tools/goodbye-terminal-life.md)

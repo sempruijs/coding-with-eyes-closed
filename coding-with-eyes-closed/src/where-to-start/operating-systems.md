@@ -1,5 +1,9 @@
 # Operating systems
 
+**chapter should be rewritten**
+
+_linux can be used via ssh with a macos terminal**
+
 You probably already have a favorite operating system, that is fine. 
 I am going to give you advice from an accessibility standpoint.
 

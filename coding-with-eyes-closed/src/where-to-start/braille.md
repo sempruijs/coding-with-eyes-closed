@@ -34,7 +34,11 @@ Braille has also some bennefits and it is relaxing to use. I want to give credit
 He makes cool stuff. He made software for the pi to learn braille and he is currently working on a IOS app to learn braille with a refreshable braille display. 
 The [braille pi](https://github.com/edequartel/BraillePiServer) and his new project [louis](https://github.com/edequartel/Louis).
 
-Lastly, lets talk about navigating websites.
+### Summery
+
+I expect you now a screenreader that you can use on a opperating system that is accessible enough for you.
+
+Lets move on to the next chapter. We're going talk about tooling!
 
 
 
