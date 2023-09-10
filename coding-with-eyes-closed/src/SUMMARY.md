@@ -8,7 +8,7 @@
   - [Screen readers](where-to-start/screen-readers.md)
   - [Should I learn braille?](where-to-start/braille.md)
 
-- [Which tools are accessible?](./tooling/which-tools-are-accessible.md)
+- [Which tools are accessible?](./tools/which-tools-are-accessible.md)
   - [Goodbye terminal life](./tools/goodbye-terminal-life.md)
   - [What's the most accessible editor?](tools/editor.md)
   - [Navigating websites](tools/websites.md)
