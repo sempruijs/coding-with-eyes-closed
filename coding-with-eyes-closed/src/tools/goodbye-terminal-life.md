@@ -1,9 +1,53 @@
 # Goodbye terminal life
 
-This chapter is meant for peple who depend on TTS technoligy. 
-Terminals are great for pepole with partial sight. Every TUI (terminal user interface) has maximum contrast. It is just text.
+This chapter is meant for people who depend on TTS technoligy. 
+Terminals are great for people with partial sight. Every TUI (terminal user interface) has maximum contrast. It's just a grid of characters. 
+If hav partial sight please keep using your terminal.
 
 ### What is the problem with terminals?
 
-### How can I fix this?
+With shells like bash or zsh, you type a string and it returns a string.
+You may think that that is a good thing. The only thing that is left is to read with a speach syntesiser that string and your done.
+
+Sadly for us, people can very creative with just a grid of characters. 
+
+#### Problem 1: We cannot filter strings precise enough to work fast with terminals
+
+Neofetch is a TUI that prints information about your system. 
+On the left a ASCII art logo of your operating system and on the right information about your system.
+This is great for people with sight but for people like us that logo is dirstracting. 
+If that string is read to us, we hear something like: 
+
+OS: macOS 13.4.1 22F82 arm64:MMMMMMMMMMMMMMMMMMMMMMMM: DE: Aqua .MMMMMMMMMMMMMMMMMMMMMMMMX. WM: Quartz Compositor kMMMMMMMMMMMMMMMMMMMMMMMMWd. 
+
+There is alloot of garbage in this string and we do not know how to filter it.
+
+Here is another example: we want to know the file premissions of a file called ```zellij.md```. 
+We know it is in our home directory so we run the ```ls -la``` command. 
+
+First all other files are read before the file that starts with the z is read. 
+Now we have to wait and here all other premissions before we here the file we need.
+
+I believe this is fixable by adding flags to the ls commands to filter it or piping the output in another cli that can filter only that specific line but it costs allot of time because you need to think how you are going to filter that string to find what you need.
+Visual people whould only do that with strings that are longer then 100 lines, but we need a filter with 10 and that is time consuming.
+
+You can find a workaround but it does not feel natural.
+
+#### Problem 2: Graphical terminal user interfaces
+
+We also have sort of graphical applications for the terminal.
+
+[Lazygit](https://github.com/jesseduffield/lazygit) for example has a part on the screen to show which files are staged for commits, a other view for on which branch you are on, pop-up dialogs for selecting a remote a simulair actons and a view showing the changes made for each file. 
+All in 1 single view. A screen reader has no idea what is going on here because a screenreader only sees a grid of text.
+
+[Helix](https://github.com/helix-editor/helix) is a vim-like editor written in rust. 
+It is a great editor but not for people who depend on screenreaders. 
+A screenreader has no idea when it is in normal mode and in insert mode so it has no idea when a ```j``` keypress should read the next line or if the user is typing ```joyfull``` in insert mode.
+
+These are exampels to illustrate the problem with terminals for screenreader users.
+Helix and lazygit are great tools that I personally use everyday, but it is not accessible for the blind.
+
+#### Problem 3: Finding a terminal
+
+### How can we fix this?
 
