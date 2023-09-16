@@ -62,4 +62,37 @@ The best experience I had with terminals and screenreaders was VoiceOver on MacO
 
 ### How can we fix this?
 
+I really hope that terminals we be just as accessible as gui's.
+The best thing to do for now is avoid the terminal as much as possible.
+
+### How to avoid the terminal?
+
+I will cover the basic stuff here. A terminal is so powerful that you should come up with your own ideas for you specific situation.
+You will never be able to do everything a programmer with sight can do.
+That is why it is not a bad thing to ask someone if you cannot do something in the terminal.
+
+####  1. Navigating files
+
+Don't use ```ls```, ```cd```, ```cat``` or ```less```. Use a graphical interface such as finder or explorer.
+
+#### 2. Your editor
+
+This part was pretty emotional for me, but you should not use ```vim```.
+I will cover which editor you should use in another chapter.
+
+#### 3. git
+
+Don't worry, we still use git, but avoid the cli.
+
+Most graphical IDE's come s with intergrated git functionallity.
+Those buttons have labels so you can do git like operations with the cli.
+
+### 4. Write scripts.
+
+If you have common tasks in the terminal that are hard. Automate it.
+
+I hope terminals will become accessible in the future, but this is the best option we have.
+
+
+Next up, we will talk about editors.
 
