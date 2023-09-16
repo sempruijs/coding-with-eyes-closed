@@ -49,5 +49,17 @@ Helix and lazygit are great tools that I personally use everyday, but it is not 
 
 #### Problem 3: Finding a terminal
 
+Most terminals do not integrate so well with your screenreader.
+I tried to use git bash with nvda on windows but it was just a mess. I could barely hear contents of a small file with ```cat```. 
+
+The default console that comes with gnome did not read the output with the default gnome screenreader called orca.
+
+Kitty does not read text with VoiceOver on MacOS nor with orca on NixOS.
+
+Iterm2 worked pretty good on Mac, but navigating with a braille display was harder.
+
+The best experience I had with terminals and screenreaders was VoiceOver on MacOS with the default MacOS terminal.
+
 ### How can we fix this?
+
 
