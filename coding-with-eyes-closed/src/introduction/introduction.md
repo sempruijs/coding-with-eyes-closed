@@ -24,7 +24,7 @@ The accessibility field is moving fast and my recommendations regarding tooling 
 The book also contains exercises, to get you up and running.
 
 It is meant to be read from beginning to end. 
-I've put allot of time in this book, so if you find this useful, please consider starring [this repository](https://github.com/sempruijs/coding-with-eyes-closed) so I know you liked it :)
+I've put allot of time in this book, so if you find this useful, please consider starring [the repository](https://github.com/sempruijs/coding-with-eyes-closed) so I know you liked it :)
 
 ### Contributing
 
