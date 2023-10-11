@@ -16,11 +16,28 @@ Install a few different editors and experiment along with the exercises later on
 
 Your editor should have at least the following:
 
-- Intergration with your VSC such as git
-- Many shortcuts
-- Quickly switching between files
-- Accessible intergration with language servers.
 
+- Accessible intergration with language servers.
+- Many shortcuts
+- Intergration with git 
+
+I will cover these three aspects in detail.
+
+### Accessible intergration with language servers
+
+//TODO; Explain what a language server is
+
+A language server is extra important to us.
+It is hard for visually impaired person to scan quickly through a document.
+People with sight see a large file, 100 lines on one screen and see exactly where the function is that they are looking for
+We do not have that super power, but we can work around it with language servers.
+
+### Many shortcuts
+
+### Intergration with git
+
+This is usefull because terminals are not so accessible.
+If you have a way to work with git such as with github desktop, you do not need this. 
 
 I like [vscodium](https://github.com/VSCodium/vscodium), but I wrote this in 2023 so my recommandation will probably soon be outdated.
 
