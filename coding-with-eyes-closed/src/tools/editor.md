@@ -19,7 +19,7 @@ Your editor should have at least the following:
 
 - Accessible integration with language servers.
 - Many shortcuts
-- Intergration with git 
+- Integration with git 
 
 I will cover these three aspects in detail.
 
@@ -36,6 +36,7 @@ A language server is extra important to us.
 Why? Because we only see 1 line at a time and it takes more time to understand what is happening on that line.
 
 We want to be as productive as possible so we need to navigate to the right line as fast as possible.
+Language servers helps you do that.
 
 Lets say you have an error and no language server.
 You have to read the error message of the compiler, which is most of the time in the terminal.
@@ -69,10 +70,20 @@ The shortcuts are important.
 
 ### Integration with git
 
-This is usefull because terminals are not so accessible.
-If you have a way to work with git such as with github desktop, you do not need this. 
+Git is integrated in most modern editors and most editors profide good shortcuts so you can commit your changes fast.
+This is usefull because it is hard for visually impaired users to interact with the git CLI.
+
+If you find an editor that you like but it does not integrate well with git, you can always use a stand olen application to interact with git such as [github desktop](https://desktop.github.com).
+
 
 ## So, where shall I start?
 
-I like [vscodium](https://github.com/VSCodium/vscodium), but I wrote this in 2023 so my recommandation will probably soon be outdated.
+Experiment with different editors to see which one works best for you.
+I found that populair software is most of the time accessible too.
 
+When I depended on TTS technoligy, I was very happy with [vscodium](https://vscodium.com).
+[Github desktop](https://desktop.github.com) was also handy for me. It is graphical and had many shortcuts.
+I wrote this in 2023 so there is a good chance if you're reading this that these products are not the most accessible anymore.
+So experiment with different editors, going from most populair to less populair.
+
+Nextup, we will learn more about searching for information on the web.
