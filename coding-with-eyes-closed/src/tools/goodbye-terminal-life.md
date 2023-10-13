@@ -18,9 +18,9 @@ On the left a ASCII art logo of your operating system and on the right informati
 This is great for people with sight but for people like us that logo is dirstracting. 
 If that string is read to us, we hear something like: 
 
-OS: macOS 13.4.1 22F82 arm64:MMMMMMMMMMMMMMMMMMMMMMMM: DE: Aqua .MMMMMMMMMMMMMMMMMMMMMMMMX. WM: Quartz Compositor kMMMMMMMMMMMMMMMMMMMMMMMMWd. 
+_OS: macOS 13.4.1 22F82 arm64:MMMMMMMMMMMMMMMMMMMMMMMM: DE: Aqua .MMMMMMMMMMMMMMMMMMMMMMMMX. WM: Quartz Compositor kMMMMMMMMMMMMMMMMMMMMMMMMWd._
 
-There is alloot of garbage in this string and we do not know how to filter it.
+There is allot of garbage in this string and we do not know how to filter it.
 
 Here is another example: we want to know the file premissions of a file called ```zellij.md```. 
 We know it is in our home directory so we run the ```ls -la``` command. 
