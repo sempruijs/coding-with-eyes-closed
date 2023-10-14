@@ -14,6 +14,7 @@
   - [Navigating websites](tools/websites.md)
 
 - [What language should I use?](languages/langues.md)
+  - [The compiler is your sight](./languages/compiler.md)
   - [Why dynamic types are even worse for someone with an visual impairment](./languages/dts.md)
   - [We do not hear indentation](languages/indentation.md)
   - [Avoid state](languages/avoid-state.md)
