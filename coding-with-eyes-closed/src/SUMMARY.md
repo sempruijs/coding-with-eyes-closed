@@ -16,9 +16,8 @@
 - [What language should I use?](languages/langues.md)
   - [The compiler is your sight](./languages/compiler.md)
   - [Why dynamic types are even worse for someone with an visual impairment](./languages/dts.md)
-  - [Make buildpipelines that last](languages/buildpipelines.md)
-  - [Avoid state](languages/avoid-state.md)
   - [Why tests are so important for us](languages/tests.md)
+  - [Make buildpipelines that last](languages/buildpipelines.md)
 
 - [Overcomming obstacles](./mental/mental.md)
   - [This costs so much energie](mental/energie.md)
