@@ -20,8 +20,7 @@
   - [Make buildpipelines that last](languages/buildpipelines.md)
 
 - [Overcomming obstacles](./mental/mental.md)
-  - [This costs so much energie](mental/energie.md)
-  - [I am way too slow](mental/slow.md)
+  - [I am way to slow and this costs too much energie](mental/energie-slow.md)
   - [This is too hard. Maybe I should switch jobs](mental/too-hard.md)
 
 - [Exercises](exercises/exercises.md)
