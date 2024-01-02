@@ -36,6 +36,6 @@
     - [Star a repository](exercises/github/star.md)
     - [hearme.md](exercises/github/hearme.md)
     - [Make an issue](exercises/github/issue.md)
-    - [Helping the blind](exercises/github/helping-the-blind.md)
+    - [Make a pull request](exercises/github/pull-request.md)
 - [Thank you!](thank-you/thankyou.md)
 - [About me](aboutme/aboutme.md)
