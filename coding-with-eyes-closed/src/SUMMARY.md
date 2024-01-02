@@ -31,7 +31,6 @@
   - [Terminal](exercises/terminal/terminal.md)
     - [Navigating your files](exercises/terminal/files.md)
     - [git init](exercises/terminal/git.md)
-    - [localhost](exercises/terminal/localhost.md)
   - [GitHub](exercises/github.md)
     - [Login](exercises/github/login.md)
     - [Star a repository](exercises/github/star.md)
