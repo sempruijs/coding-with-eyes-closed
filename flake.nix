@@ -28,7 +28,7 @@
 
               installPhase = ''
                 mkdir $out
-                cp -r book $out/.
+                cp -r book/. $out/.
               '';
             };
           };
