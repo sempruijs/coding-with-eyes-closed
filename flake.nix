@@ -20,7 +20,7 @@
             default = site;
             site = pkgs.stdenv.mkDerivation {
               buildInputs = with pkgs; [ mdbook ];
-              src = ./code-with-eyes-closed;
+              src = ./coding-with-eyes-closed;
               name = "code-with-eyes-closed";
               buildPhase = ''
                 mdbook build
