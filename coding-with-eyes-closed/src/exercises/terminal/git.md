@@ -12,7 +12,8 @@ Sometimes, you want to use the git cli instead of a gui.
 
 2. Make a commit with changes and a commit meesage.
 
-3. Push your changes to a remote using your terminal.
+3. Push your changes to a remote using your terminal. 
+If you do not have ssh configured, you should make a privaste and public ssh-key.
 
 Good luck!
 
