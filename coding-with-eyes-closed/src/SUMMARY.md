@@ -34,7 +34,7 @@
   - [GitHub](exercises/github.md)
     - [Login](exercises/github/login.md)
     - [Star a repository](exercises/github/star.md)
-    - [Hearme.md](exercises/github/hearme.md)
+    - [hearme.md](exercises/github/hearme.md)
     - [Make an issue](exercises/github/issue.md)
     - [Helping the blind](exercises/github/helping-the-blind.md)
 - [Thank you!](thank-you/thankyou.md)
