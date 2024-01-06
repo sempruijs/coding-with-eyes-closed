@@ -54,7 +54,7 @@ Language servers are great, the productivity boost that you earn is way higher f
 Most coders with sight use the mouse to perform certain tasks.
 They click on the commit button, then on the textfield to compose a commit message, click commit and finally click push.
 Performing these tasks takes more time for visually impaired people. 
-Finding those buttons with a screenreader can be a bit tideos. 
+Finding those buttons with a screen reader can be a bit tideos. 
 
 This tip does not only apply to coding but for every workflow you have: Learn many many shortcuts.
 Shortcuts are so important, what I noticed from my experience in general is that shortcuts are more important then if a button is labeld.
@@ -79,11 +79,11 @@ If you find an editor that you like but it does not integrate well with git, you
 ## So, where shall I start?
 
 Experiment with different editors to see which one works best for you.
-I found that populair software is most of the time accessible too.
+I found that popular software is most of the time accessible too.
 
 When I depended on TTS technoligy, I was very happy with [vscodium](https://vscodium.com).
 [Github desktop](https://desktop.github.com) was also handy for me. It is graphical and had many shortcuts.
 I wrote this in 2023 so there is a good chance if you're reading this that these products are not the most accessible anymore.
-So experiment with different editors, going from most populair to less populair.
+So experiment with different editors, going from most popular to less populair.
 
 Nextup, we will learn more about searching for information on the web.

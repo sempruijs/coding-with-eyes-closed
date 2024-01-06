@@ -1,6 +1,6 @@
 # Do I need braille to code?
 
-Short answer no. You can do everything with just a laptop and a screenreader.
+Short answer no. You can do everything with just a laptop and a screen reader.
 
 I like braille. You can feel every single character and their is something about braille that feels magical. 
 feeling git add README.md in the terminal is really cool. Reading braille comes more close to reading visual character then hearing words.
@@ -20,7 +20,7 @@ My government gave me a braille display, but I live in a country where theey car
 ### Why braille makes me less productive
 
 I use braille every now and then, reading books for example, but I do not use braille for coding because it makes me less productive.
-With screenreaders, you can hear words insainly fast. I belive I can read my email twice as fast then how visual people whould read their email.
+With screen readers, you can hear words insainly fast. I belive I can read my email twice as fast then how visual people whould read their email.
 
 From the people I spoke, including someone who only used braille and did not use anny TTS technoligy where as fast as someone with sight or slower.
 Moving your hands between the braille display and the keyboard is slow. Yes you can type on braille displays but it is not as fast as typing with 10 fingers.
@@ -36,7 +36,7 @@ The [braille pi](https://github.com/edequartel/BraillePiServer) and his new proj
 
 ### Summery
 
-I expect you now a screenreader that you can use on a opperating system that is accessible enough for you.
+I expect you now a screen reader that you can use on a opperating system that is accessible enough for you.
 
 Lets move on to the next chapter. We're going talk about tooling!
 

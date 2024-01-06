@@ -10,7 +10,7 @@ The trick is to not use that sight to search for errors.
 The compiler should search for errors.
 
 This idea is not new at all, but many coders do not listen to this advice at all.
-As I am wrting this, the 2 most populair programming languages are javascript and python.
+As I am wrting this, the 2 most popular programming languages are javascript and python.
 Neither of these languages implement this idea well enough.
 Javascript says so many times stuff like ```object is undifind``` or ```null is undifiend```.
 The compiler just has no idea what kind of mistake the coder made.

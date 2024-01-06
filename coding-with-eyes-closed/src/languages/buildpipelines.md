@@ -16,7 +16,7 @@ With nix, You can easaly define buildpipeliness that last.
 - You can make a buildpiplenine with nix for every language.
 - It is reproducable, meaning that all your tools are pined to a specific version. That way you can reproduce your build in the future.
 - You can test your buildpipeline localy because your pipeline is reproducable. You can reproduce it on your local machine.
-- Because you can test your pipeline localy, you can read the error messages localy. No need to navigate awebsite with a screenreader.
+- Because you can test your pipeline localy, you can read the error messages localy. No need to navigate awebsite with a screen reader.
 - Because it is reproducable, it will not break in the future. Once it works, it will always work.
 - Nix integrates with CI products such as github actions. Nix can build docker images. Learn once, deploy everywhere.
 

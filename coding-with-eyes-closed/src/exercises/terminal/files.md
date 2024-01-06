@@ -23,7 +23,7 @@ Tip, you do not have to use an editor in the terinal such as vim or nano. You ca
 
 4. Copy ```folder-a``` with all the files and name it ```folder-b```. Use the ```cp``` command.
 
-Tip, you can read manpages online with your screenreader instead of in the terminal.
+Tip, you can read manpages online with your screen reader instead of in the terminal.
 
 Good luck.
 

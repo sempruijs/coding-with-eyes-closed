@@ -38,27 +38,27 @@ You can find a workaround but it does not feel natural.
 We also have sort of graphical applications for the terminal.
 
 [Lazygit](https://github.com/jesseduffield/lazygit) for example has a part on the screen to show which files are staged for commits, a other view for on which branch you are on, pop-up dialogs for selecting a remote a simulair actons and a view showing the changes made for each file. 
-All in 1 single view. A screen reader has no idea what is going on here because a screenreader only sees a grid of text.
+All in 1 single view. A screen reader has no idea what is going on here because a screen reader only sees a grid of text.
 
 [Helix](https://github.com/helix-editor/helix) is a vim-like editor written in rust. 
-It is a great editor but not for people who depend on screenreaders. 
-A screenreader has no idea when it is in normal mode and in insert mode so it has no idea when a ```j``` keypress should read the next line or if the user is typing ```joyfull``` in insert mode.
+It is a great editor but not for people who depend on screen readers. 
+A screen reader has no idea when it is in normal mode and in insert mode so it has no idea when a ```j``` keypress should read the next line or if the user is typing ```joyfull``` in insert mode.
 
-These are exampels to illustrate the problem with terminals for screenreader users.
+These are exampels to illustrate the problem with terminals for screen reader users.
 Helix and lazygit are great tools that I personally use everyday, but it is not accessible for the blind.
 
 #### Problem 3: Finding a terminal
 
-Most terminals do not integrate so well with your screenreader.
+Most terminals do not integrate so well with your screen reader.
 I tried to use git bash with nvda on windows but it was just a mess. I could barely hear contents of a small file with ```cat```. 
 
-The default console that comes with gnome did not read the output with the default gnome screenreader called orca.
+The default console that comes with gnome did not read the output with the default gnome screen reader called orca.
 
 Kitty does not read text with VoiceOver on MacOS nor with orca on NixOS.
 
 Iterm2 worked pretty good on Mac, but navigating with a braille display was harder.
 
-The best experience I had with terminals and screenreaders was VoiceOver on MacOS with the default MacOS terminal.
+The best experience I had with terminals and screen readers was VoiceOver on MacOS with the default MacOS terminal.
 
 ### How can we fix this?
 

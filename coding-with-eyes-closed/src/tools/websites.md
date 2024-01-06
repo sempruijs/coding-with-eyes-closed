@@ -39,7 +39,7 @@ The benefits of reading the manual are:
 
 - You work way faster.
 - You actually know how something works.
-- You do not have to visit all sorts of websites with cookies that are harder to navigate with a screenreader.
+- You do not have to visit all sorts of websites with cookies that are harder to navigate with a screen reader.
 
 ### 2. Don't use google
 
@@ -47,7 +47,7 @@ If google works for you that is fine.
 I like duckduck go way more from an accessibility standpoint.
 
 This is because duckduckgo most of the time only gives a list of links.
-It is easier to navigate that with a screenreader. 
+It is easier to navigate that with a screen reader. 
 The only thing that you have to do is next heading and previous heading to navigate through the list
 
 Google gives a fragment of a youtube video as its first result and advertisments that have nothing to do with your search.

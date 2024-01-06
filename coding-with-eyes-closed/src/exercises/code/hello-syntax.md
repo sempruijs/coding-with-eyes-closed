@@ -1,6 +1,6 @@
 # Hello syntax!
 
-goal: Get you femiliar with syntax and screenreaders.
+goal: Get you femiliar with syntax and screen readers.
 
 ## Intro
 
@@ -16,7 +16,7 @@ First, we need to get familair with this new way of looking at a file.
 You can read the editors section for recomendations.
 
 2. Make an HTML file and paste some html in the file or write it yourself.
-Look around in the file with your screenreader. Do you know in which scope you are? When a html tag begins and when it ends? 
+Look around in the file with your screen reader. Do you know in which scope you are? When a html tag begins and when it ends? 
 
 Good luck!
 
