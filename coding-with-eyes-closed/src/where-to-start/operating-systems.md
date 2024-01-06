@@ -8,11 +8,11 @@ You probably already have a favorite operating system, that is fine.
 I am going to give you advice from an accessibility standpoint.
 
 If you are starting out, you are learning allot. My advice is to take the easiest result, and switch when you need it for a project.
-Linux is for a whole lot of reasons uesful. Fast, a good shell, open-source. Just to name a few.
+Linux is for a whole lot of reasons useful. Fast, a good shell, open-source. Just to name a few.
 But most visually impaird people use windows. I am not talking about developers, just people in general, the people who do not know that they are even using windows.
 If something is wrong with an app, you will not be alone on windows.
 
-If you are an arch linux unstable on arm64 and a vim-based screen reader, a tiling windowmanager and you cannot read your email anymore... good luck,. You have to figure it out youself.
+If you are an arch linux unstable on arm64 and a vim-based screen reader, a tiling window manager and you cannot read your email anymore... good luck,. You have to figure it out yourself.
 
 My advice is to use the most popular option for VIP. (visually impaired person/people)
 If you become better and using you tools, you can consider switching to linux for example.
