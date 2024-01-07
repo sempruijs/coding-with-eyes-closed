@@ -79,7 +79,7 @@ Here is a quote from the [type system wikipedia page](https://en.wikipedia.org/w
 _"Type systems are often specified as part of programming languages and built into interpreters and compilers, although the type system of a language can be extended by optional tools that perform added checks using the language's original type syntax and grammar. The main purpose of a type system in a programming language is to reduce possibilities for bugs in computer programs due to type errors.[2] The given type system in question determines what constitutes a type error, but in general, the aim is to prevent operations expecting a certain kind of value from being used with values of which that operation does not make sense (validity errors)."_
 
 So, type systems help us find bugs and they make sure we use our stuff in a correct way.
-This is usefull. 
+This is useful. 
 We want a compiler that can assist us well because we can only see one line at a time.
 We do not want a blind compiler.
 

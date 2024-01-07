@@ -11,7 +11,7 @@ It is a hard journey and you should lower your expectations about your skills. Y
 I believe that if you like to code, you can do this.
 
 This book is meant for people who depend on screen reader and text-to-speach (TTS) technology.
-It has usefull elements for people with partial sight, but it is mostly meant for people who have little to no vision.
+It has useful elements for people with partial sight, but it is mostly meant for people who have little to no vision.
 I believe that how people with partial sight use technology comes closer to how a visual person would use technology.
 If you come from a sighted world and now depend on TTS, programming is way harder dan working with magnifications for example. 
 
@@ -20,7 +20,7 @@ I can now use my sight with with magnifications, but programming with little to 
 This book is highly opinionated. 
 I will give advice based on my own experiences with my use of TTS technology.
 I had little to no sight between 2021 and 2023. 
-The accessibility field is moving fast and my recommendations regarding tooling will someday be outdated. It contains recommendations about tooling, but also tips that are still usefull 20 years from now.
+The accessibility field is moving fast and my recommendations regarding tooling will someday be outdated. It contains recommendations about tooling, but also tips that are still useful 20 years from now.
 The book also contains exercises, to get you up and running.
 
 It is meant to be read from beginning to end. 
