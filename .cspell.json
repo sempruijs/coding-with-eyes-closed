@@ -15,7 +15,12 @@
         "zellij",
         "MMMMMMMMMMMMMMMMMMMMMMMMX",
         "neofetch",
-        "LSIF"
+        "LSIF",
+        "duckduckgo",
+        "docsrs",
+        "ohhhh",
+        "Ehhhhh",
+        "googeling"
     ],
     // flagWords - list of words to be always considered incorrect
     // This is useful for offensive words and common spelling errors.
