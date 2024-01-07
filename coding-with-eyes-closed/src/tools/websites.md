@@ -44,7 +44,7 @@ The benefits of reading the manual are:
 ### 2. Don't use google
 
 If google works for you that is fine.
-I like ```duck duck go``` way more from an accessibility standpoint.
+I like ```duckduckgo``` way more from an accessibility standpoint.
 
 This is because ```duckduckgo``` most of the time only gives a list of links.
 It is easier to navigate that with a screen reader. 
