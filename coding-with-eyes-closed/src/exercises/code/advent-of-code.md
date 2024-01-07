@@ -4,16 +4,16 @@ Goal: solve an advent of code puzzle.
 
 ## Intro
 
-Advent of code is an advent calander with coding chalanges.
-It starts relatively simple. Ofcourse, if you have little experience with coding with eyes closed. It is hard.
+Advent of code is an advent calender with coding challenges.
+It starts relatively simple. Of course, if you have little experience with coding with eyes closed. It is hard.
 That is why this a good training. 
-This is a hard excercise.
+This is a hard exercise.
 If you succeed, congratulations. You worked hard to get to this point and you can code with eyes close.
-Practice makes perfect. If this is too hard, try to do another excercise.
+Practice makes perfect. If this is too hard, try to do another exercises.
 
 ## The mission
 
-1. Go to [adeventofcode.com](https://adventofcode.com) and login. (You can login with github)
+1. Go to [adventofcode.com](https://adventofcode.com) and login. (You can login with github)
 
 2. Solve day 1 part 1.
 

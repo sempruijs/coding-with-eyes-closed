@@ -4,7 +4,7 @@ Goal: Read a readme with a screen reader.
 
 ## Intro
 
-Readme's are everywhere. Github makes readme's easy to read with screenreaders.
+Readme's are everywhere. Github makes readme's easy to read with screen readers.
 It turns markdown into accessible html pages.
 
 ## The mission

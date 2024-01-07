@@ -1,6 +1,6 @@
 # Motivation
 
-I wrote my first line of code when I was about 11 years old. I had a great intrest in ios app development and making games in unity.
+I wrote my first line of code when I was about 11 years old. I had a great interest in ios app development and making games in unity.
 Game development was nice because I could make the art, music and the code by myself.
 
 This all changed about 2 years ago. I was diagnosed with Leber Hereditary Optic Neuropathy (LHON). This is a genetic disease which brought my vision from 100% to 1% in 6 months.
@@ -9,7 +9,7 @@ I was 16 and I had to do things differently. I turned on VoiceOver, was handed a
 Mobility, traveling with public transport and navigating technology where all strait forward for me. But coding with eyes closed is hard.
 I knew it was possible, because I saw all sorts of people ding it on the internet. But I could not find a good guide on how to do it.
 
-But then I spoke someone who was completly blind and made websites with HTML and he did the styling with css without sight.
+But then I spoke someone who was completely blind and made websites with HTML and he did the styling with css without sight.
 His said to me that I should just practice and try to make very small stuff. Hello world with HTML.
 It was really hard but it felt so good when I succeeded. I made the challenges harder and harder to the point that I've made a servo motor turn via a arduino, and connecting all the wires myself.
 

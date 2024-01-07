@@ -1,6 +1,6 @@
 # Hello world!
 
-Goal: Make a bineary that prints hello world and get familiar with language servers and error messages
+Goal: Make a binary that prints hello world and get familiar with language servers and error messages
 
 ## Intro
 
@@ -19,6 +19,6 @@ Now let's bring those two together.
 4. Change hello world into hello {your name}.
 5. Make a syntax error. Can you read the error? Can you use your language server to find the error?
 6. Expend your program so you have more then 1 function and more then 1 file. 
-Can you navigate the files with shortcuts from your editor? Can you use a ```go to defination``` or ```Go to references``` to find the function you're looking for?
+Can you navigate the files with shortcuts from your editor? Can you use a ```go to definition``` or ```Go to references``` to find the function you're looking for?
 
 Good luck!

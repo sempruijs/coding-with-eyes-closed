@@ -10,26 +10,26 @@ The trick is to not use that sight to search for errors.
 The compiler should search for errors.
 
 This idea is not new at all, but many coders do not listen to this advice at all.
-As I am wrting this, the 2 most populair programming languages are javascript and python.
+As I am writing this, the 2 most popular programming languages are javascript and python.
 Neither of these languages implement this idea well enough.
-Javascript says so many times stuff like ```object is undifind``` or ```null is undifiend```.
+Javascript says so many times stuff like ```object is undefined``` or ```null is undefined```.
 The compiler just has no idea what kind of mistake the coder made.
 
-Because of this, people have to search for erros instead of the compiler.
-For people with sight, this is frustating and it makes people less productive.
-But having to search for those errors without sight is insainly hard.
+Because of this, people have to search for errors instead of the compiler.
+For people with sight, this is frustrating and it makes people less productive.
+But having to search for those errors without sight is insanely hard.
 
-It could be something so small as a semicolen. 
-People with sight can look at each line very fast to find where the semicolen is missin.
+It could be something so small as a semicolon. 
+People with sight can look at each line very fast to find where the semicolon is missing.
 For us it takes time, way too much time.
 
-If we use a language that has a good strict compiler that gives good error messeges, we do not have to search for errors because the compiler already found them.
-A strict compiler tells you where the semicolen is missin, why that screws up the rest of the program and a suggestion where you should put the semicolen to fix it.
+If we use a language that has a good strict compiler that gives good error messages, we do not have to search for errors because the compiler already found them.
+A strict compiler tells you where the semicolon is missing, why that screws up the rest of the program and a suggestion where you should put the semicolon to fix it.
 
 With a bad compiler, you can maybe be 30% productive compared to a sighted coder.
 But with a strict compiler, you can be 90% productive compared to a sighted coder.
 
-Bad languages are not just a bad language, we cannot make scaleble products because of our sight.
+Bad languages are not just a bad language, we cannot make scalable products because of our sight.
 
 That doesn't mean people without sight cannot code, they can only code in languages that have strict compilers.
 
