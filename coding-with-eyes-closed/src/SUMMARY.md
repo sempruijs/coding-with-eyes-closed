@@ -17,9 +17,9 @@
   - [The compiler is your sight](./languages/compiler.md)
   - [Why dynamic types are even worse for someone with an visual impairment](./languages/dts.md)
   - [Why tests are so important for us](languages/tests.md)
-  - [Make buildpipelines that last](languages/buildpipelines.md)
+  - [Make build pipelines that last](languages/buildpipelines.md)
 
-- [Overcomming obstacles](./mental/mental.md)
+- [Overcoming obstacles](./mental/mental.md)
   - [I am way to slow and this costs too much energie](mental/energie-slow.md)
   - [This is too hard. Maybe I should switch jobs](mental/too-hard.md)
 
