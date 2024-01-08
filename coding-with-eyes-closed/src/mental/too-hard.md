@@ -1,7 +1,5 @@
 # This is too hard.
 
--- add John bible verse
-
 I really doubted if coding with eyes closed was a thing that would work for me.
 Luckily I grinded until I could code with eyes closed and I am very happy that I can make whatever I want.
 
