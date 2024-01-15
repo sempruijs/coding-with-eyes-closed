@@ -32,7 +32,9 @@
         "hearme",
         "adventofcode",
         "Pruijs",
-        "sublicensable"
+        "sublicensable",
+        "jurriaan",
+        "bartimeus"
     ],
     // flagWords - list of words to be always considered incorrect
     // This is useful for offensive words and common spelling errors.
