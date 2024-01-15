@@ -2,7 +2,7 @@
 
 This is a short summery with links that to the corresponding chapters that explain the idea in more detail.
 
-This book is not a bible. It is meant to help you to guide you in the right direction.
+this book is not a bible. It is meant to help you to guide you in the right direction.
 
 ### Where to start
 
