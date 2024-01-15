@@ -38,4 +38,5 @@
     - [Make an issue](exercises/github/issue.md)
     - [Make a pull request](exercises/github/pull-request.md)
 - [Thank you!](thank-you/thankyou.md)
+- [Cheat sheet](cheat-sheet.md)
 - [About me](aboutme/aboutme.md)
