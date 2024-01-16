@@ -8,10 +8,10 @@
   - [Screen readers](./3-2-screen-readers.md)
   - [Should I learn braille?](./3-3-braille.md)
 
-- [Which tools are accessible?](./tools/which-tools-are-accessible.md)
-  - [Goodbye terminal life](./tools/goodbye-terminal-life.md)
-  - [What's the most accessible editor?](tools/editor.md)
-  - [Navigating websites](tools/websites.md)
+- [Which tools are accessible?](./4-0-which-tools-are-accessible.md)
+  - [Goodbye terminal life](./4-1-terminal.md)
+  - [What's the most accessible editor?](./4-2-editor.md)
+  - [Navigating websites](./4-3-websites.md)
 
 - [What language should I use?](languages/langues.md)
   - [The compiler is your sight](./languages/compiler.md)
