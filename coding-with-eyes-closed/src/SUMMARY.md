@@ -1,7 +1,7 @@
 # Summary
 
-- [Introduction](./introduction/introduction.md)
-  - [Motivation](./introduction/motivation.md)
+- [Introduction](./1-0-introduction.md)
+- [Motivation](./2-0-motivation.md)
 
 - [Where to start?](where-to-start/whero-to-start.md)
   - [Operating systems](./where-to-start/operating-systems.md)
