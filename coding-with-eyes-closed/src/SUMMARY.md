@@ -1,6 +1,7 @@
 # Summary
 
 - [Introduction](./1-0-introduction.md)
+
 - [Motivation](./2-0-motivation.md)
 
 - [Where to start?](./3-0-where-to-start.md)
@@ -17,11 +18,11 @@
   - [The compiler is your sight](./5-1-compiler.md)
   - [Why dynamic types are even worse for someone with an visual impairment](./5-2-dts.md)
   - [Why tests are so important for us](./5-3-tests.md)
-  - [Make build pipelines that last](./5-4-buildpipelines.md)
+  - [Make build pipelines that last](./5-4-buildpipeline.md)
 
-- [Overcoming obstacles](./mental/mental.md)
-  - [I am way to slow and this costs too much energie](mental/energie-slow.md)
-  - [This is too hard. Maybe I should switch jobs](mental/too-hard.md)
+- [Overcoming obstacles](./6-0-obstacles.md)
+  - [I am way to slow and this costs too much energie](./6-1-energy-slow.md)
+  - [This is too hard. Maybe I should switch jobs](./6-2-too-hard.md)
 
 - [Exercises](exercises/exercises.md)
   - [Ready to code?](exercises/code/code.md)
