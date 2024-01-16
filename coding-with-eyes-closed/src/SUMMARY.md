@@ -3,10 +3,10 @@
 - [Introduction](./1-0-introduction.md)
 - [Motivation](./2-0-motivation.md)
 
-- [Where to start?](where-to-start/whero-to-start.md)
-  - [Operating systems](./where-to-start/operating-systems.md)
-  - [Screen readers](where-to-start/screen-readers.md)
-  - [Should I learn braille?](where-to-start/braille.md)
+- [Where to start?](./3-0-where-to-start.md)
+  - [Operating systems](./3-1-operating-system.md)
+  - [Screen readers](./3-2-screen-readers.md)
+  - [Should I learn braille?](./3-3-braille.md)
 
 - [Which tools are accessible?](./tools/which-tools-are-accessible.md)
   - [Goodbye terminal life](./tools/goodbye-terminal-life.md)
