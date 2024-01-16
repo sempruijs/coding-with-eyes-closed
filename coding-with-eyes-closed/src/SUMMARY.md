@@ -13,11 +13,11 @@
   - [What's the most accessible editor?](./4-2-editor.md)
   - [Navigating websites](./4-3-websites.md)
 
-- [What language should I use?](languages/langues.md)
-  - [The compiler is your sight](./languages/compiler.md)
-  - [Why dynamic types are even worse for someone with an visual impairment](./languages/dts.md)
-  - [Why tests are so important for us](languages/tests.md)
-  - [Make build pipelines that last](languages/buildpipelines.md)
+- [What language should I use?](./5-0-language.md)
+  - [The compiler is your sight](./5-1-compiler.md)
+  - [Why dynamic types are even worse for someone with an visual impairment](./5-2-dts.md)
+  - [Why tests are so important for us](./5-3-tests.md)
+  - [Make build pipelines that last](./5-4-buildpipelines.md)
 
 - [Overcoming obstacles](./mental/mental.md)
   - [I am way to slow and this costs too much energie](mental/energie-slow.md)
