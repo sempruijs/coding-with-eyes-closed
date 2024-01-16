@@ -1,29 +1,23 @@
 # Summary
 
-- [Introduction](./1-0-introduction.md)
-
-- [Motivation](./2-0-motivation.md)
-
-- [Where to start?](./3-0-where-to-start.md)
-  - [Operating systems](./3-1-operating-system.md)
-  - [Screen readers](./3-2-screen-readers.md)
-  - [Should I learn braille?](./3-3-braille.md)
-
+- [Introduction](01-0-introduction.md)
+- [Motivation](02-0-motivation.md)
+- [Where to start?](03-0-start.md)
+  - [Operating systems](03-1-operating-system.md)
+  - [Screen readers](03-2-screen-reader.md)
+  - [Should I learn braille?](03-3-braille.md)
 - [Which tools are accessible?](./4-0-which-tools-are-accessible.md)
   - [Goodbye terminal life](./4-1-terminal.md)
   - [What's the most accessible editor?](./4-2-editor.md)
   - [Navigating websites](./4-3-websites.md)
-
 - [What language should I use?](./5-0-language.md)
   - [The compiler is your sight](./5-1-compiler.md)
   - [Why dynamic types are even worse for someone with an visual impairment](./5-2-dts.md)
   - [Why tests are so important for us](./5-3-tests.md)
   - [Make build pipelines that last](./5-4-buildpipeline.md)
-
 - [Overcoming obstacles](./6-0-obstacles.md)
   - [I am way to slow and this costs too much energie](./6-1-energy-slow.md)
   - [This is too hard. Maybe I should switch jobs](./6-2-too-hard.md)
-
 - [Exercises](exercises/exercises.md)
   - [Ready to code?](exercises/code/code.md)
     - [Hello syntax!](exercises/code/hello-syntax.md)
