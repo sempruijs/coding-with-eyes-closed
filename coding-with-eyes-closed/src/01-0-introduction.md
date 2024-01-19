@@ -50,6 +50,6 @@ Please ask your questions on the [matrix server](https://matrix.to/#/%23coding-w
 Their are a few ways you can support this project.
 
 - Opening a pull request or issue. English is not my native language and I have dyslexia. If you find a spell mistake, please submit an issue or pull request on [the repo](https://github.com/sempruijs/coding-with-eyes-closed).
-- [Start the repository](https://github.com/sempruijs/coding-with-eyes-closed). This way more people can find the book.
+- [Star the repository](https://github.com/sempruijs/coding-with-eyes-closed). This way more people can find the book.
 - Helping other people on [the matrix server](https://matrix.to/#/%23coding-with-eyes-closed:matrix.org)
 
