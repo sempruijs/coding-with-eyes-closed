@@ -36,6 +36,10 @@ If you have sight but you want to learn how you can make your infrastructure mor
 
 Of course, you can also read this book from beginning to end.
 
+This book gives advice. 
+Every good coder experiments with tooling and languages to find a way that works best for them.
+That is no different for coders with eyes closed.
+Experiment on your journey but not too much. Else you will waste your time.
 
 ### Getting help
 
