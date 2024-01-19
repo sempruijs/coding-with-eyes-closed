@@ -4,11 +4,14 @@ Build pipelines are glorious when they work.
 The problem is that they sometimes break. 
 This is annoying for people with sight but for people without sight this is even worse.
 
-That is because many CI/CD products work with YAML files.
+That is because many CI/CD products are not reproducible out of the box.
+When all your tools and dependencies are locked in a lock file, they will last because a update cannot change your program.
+
+Also many CI/CD products work with YAML files.
 YAML is horrible. People try to use it as a sort of programming language while it is not.
 You can easily make syntax errors and if you want to debug your CI you need to push it to your repo and you'll have to find all the buttons on the webpage to see your error message.
 
-Build pipelines should not be your focus but when you need to build a pipeline, use [Nix](https://nixos.org) or a better alternative.
+Build pipelines should not be your focus when you are starting out but when you need to build a pipeline, use [Nix](https://nixos.org) or a better alternative.
 
 Nix is a simple language. It is sort of like JSON with functions.
 With nix, You can easily define build pipelines that last.

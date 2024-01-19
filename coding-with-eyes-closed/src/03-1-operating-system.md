@@ -1,13 +1,9 @@
 # Operating systems
 
-**chapter should be rewritten**
-
-_linux can be used via ssh with a macos terminal**
-
 You probably already have a favorite operating system, that is fine. 
 I am going to give you advice from an accessibility standpoint.
 
-If you are starting out, you are learning allot. My advice is to take the easiest result, and switch when you need it for a project.
+If you are starting out, you are learning allot. My advice is to take the easiest route and switch when you need it for a project.
 Linux is for a whole lot of reasons useful. Fast, a good shell, open-source. Just to name a few.
 But most visually impaired people use windows. I am not talking about developers, just people in general, the people who do not know that they are even using windows.
 If something is wrong with an app, you will not be alone on windows.
@@ -55,11 +51,16 @@ So back to operating systems, here's a overview of what I think of each operatin
 ##### Linux
 
 Their are allot of linux distributions, some of which focus on accessibility, I've never used a linux distribution with no sight, because I could not set it up on my own.
-I do not know much about Linux from an accessibility standpoint.
 
-If you can work with it, use it. 
-I believe Linux has the best tooling for developers and it can run Nix, you will see later on why this is useful.
+If you want to use linux, do not dual boot. 
+Start with a virtual machine in a operating system that you can use.
 
+This way you can learn tools in the VM and use your browser outside the VM for reading documentation for example.
+When you are ready to use linux, you can dual boot if you wish.
+
+You can also ssh into a virtual machine.
+I believe linux has the best tooling for developers. 
+Sadly it is hard to use from an accessibility standpoint.
 
 ### What do I use?
 
@@ -71,4 +72,3 @@ You can always try Linux after you wrote you first application with your eyes cl
 
 
 Next up, lets talk about screen readers!
-

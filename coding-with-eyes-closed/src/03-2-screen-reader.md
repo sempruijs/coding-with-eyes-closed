@@ -56,6 +56,7 @@ If you want to learn VoiceOver for mac, press ```CMD F5```, follow the build-in 
 
 #### Linux
 
-On linux, you have [orca](https://help.gnome.org/users/orca/stable/introduction.html.en) that you have to use with GNOME. I never used it, but it is currently the most popular option.
+On linux, you have [orca](https://help.gnome.org/users/orca/stable/introduction.html.en) that you have to use with GNOME.
+I do not recommend this. If you have to use linux, SSH into a virtual machine and use the MacOS or windows screen reader.
 
 

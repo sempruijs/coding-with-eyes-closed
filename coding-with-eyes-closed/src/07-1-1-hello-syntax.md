@@ -20,5 +20,3 @@ Look around in the file with your screen reader. Do you know in which scope you 
 
 Good luck!
 
-
-
