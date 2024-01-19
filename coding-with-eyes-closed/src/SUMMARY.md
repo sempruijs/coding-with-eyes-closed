@@ -17,7 +17,7 @@
   - [Make build pipelines that last](05-4-build-pipeline.md)
 - [Overcoming obstacles](06-0-obstacles.md)
   - [I am way to slow and this costs too much energie](06-1-energy-slow.md)
-  - [This is too hard. Maybe I should switch jobs](06-2-too-hard.md)
+  - [This is too hard](06-2-too-hard.md)
 - [Exercises](07-0-exercises.md)
   - [Ready to code?](07-1-0-code.md)
     - [Hello syntax!](07-1-1-hello-syntax.md)

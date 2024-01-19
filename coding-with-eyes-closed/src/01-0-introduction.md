@@ -28,14 +28,18 @@ The book also contains exercises, to get you up and running.
 You have to learn allot of things when you lose your sight practically and emotionally.
 That is why I made a very efficient way to read this book.
 
-To follow the fastest path possible to code with eyes closed, go to the cheat sheet chapter and read it and follow the advice.
+To follow the fastest path possible to code with eyes closed, go to [the cheat sheet section](https://sempruijs.github.io/coding-with-eyes-closed/09-0-cheat-sheet.html) and read it and follow the advice.
 All the claims are linked to chapters that explain it in more detail, so you can read exactly how much you need.
-After reading the cheat sheet, you should try the exercises.
+After reading the cheat sheet, you should try [the exercises](https://sempruijs.github.io/coding-with-eyes-closed/07-0-exercises.html).
 
-If you have sight but you want to learn how you can make your infrastructure more accessible for blind programmers, I recommend reading the language chapters and the cheat sheet.
+If you have sight but you want to learn how you can make your infrastructure more accessible for blind programmers, I recommend reading [the language chapter](https://sempruijs.github.io/coding-with-eyes-closed/05-0-language.html) and [the cheat sheet](https://sempruijs.github.io/coding-with-eyes-closed/09-0-cheat-sheet.html).
 
 Of course, you can also read this book from beginning to end.
 
+This book gives advice. 
+Every good coder experiments with tooling and languages to find a way that works best for them.
+That is no different for coders with eyes closed.
+Experiment on your journey but not too much. Else you will waste your time.
 
 ### Getting help
 
@@ -50,6 +54,6 @@ Please ask your questions on the [matrix server](https://matrix.to/#/%23coding-w
 Their are a few ways you can support this project.
 
 - Opening a pull request or issue. English is not my native language and I have dyslexia. If you find a spell mistake, please submit an issue or pull request on [the repo](https://github.com/sempruijs/coding-with-eyes-closed).
-- [Start the repository](https://github.com/sempruijs/coding-with-eyes-closed). This way more people can find the book.
+- [Star the repository](https://github.com/sempruijs/coding-with-eyes-closed). This way more people can find the book.
 - Helping other people on [the matrix server](https://matrix.to/#/%23coding-with-eyes-closed:matrix.org)
 
