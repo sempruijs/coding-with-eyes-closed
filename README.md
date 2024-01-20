@@ -5,7 +5,7 @@ If you cannot code anymore because of an visual impairment, this book is for you
 This book teaches the building blocks of a good coder without sight.
 
 Although this book is meant for people with an visual impairment, it can be interesting to read without an visual impairment.
-Coding with eyes closed becomes less of a magic trick and more practical on how you can be a coder even without sight.
+Coding with eyes closed becomes less of a magic trick and more practical on how you can be a coder with a visual impairment.
 
 ### Contributing
 
@@ -75,7 +75,7 @@ This will run a local server with the book and opens it in the default browser.
 
 ### Getting help
 
-If you have any questions regarding the book or how people code with eyes closed, you cna ask on [the coding with eyes closed matrix server](https://matrix.to/#/%23coding-with-eyes-closed:matrix.org).
+If you have any questions regarding the book or how people code with eyes closed, you can ask on [the coding with eyes closed matrix server](https://matrix.to/#/%23coding-with-eyes-closed:matrix.org).
 
 ### License
 
