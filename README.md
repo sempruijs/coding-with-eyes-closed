@@ -4,8 +4,8 @@ Book for rehabilitative coders.
 If you cannot code anymore because of an visual impairment, this book is for you.
 This book teaches the building blocks of a good coder without sight.
 
-Altough this book is meant for people with an visual impairment, it can be intresting to read without an visual impairment.
-Coding with eyes clsoed becomes less of a magic trick and more practical on how you can be a coder even without sight.
+Although this book is meant for people with an visual impairment, it can be interesting to read without an visual impairment.
+Coding with eyes closed becomes less of a magic trick and more practical on how you can be a coder even without sight.
 
 ### Contributing
 
@@ -25,7 +25,7 @@ All these actions can be accomplished just on the GitHub website
 2. Change content of the markdown file as you wish.
 3. Commit the changes
 4. Open a pull request
-5. Wait for the checks to pass. The buildpipeline checks for spell mistakes and if the website can be deployed. If the checks do not pass, check the log if you didn't made a spell mistake.
+5. Wait for the checks to pass. The build pipeline checks for spell mistakes and if the website can be deployed. If the checks do not pass, check the log if you didn't made a spell mistake.
 6. Wait for me to approve your pull request.
 
 ##### NixOS
@@ -39,13 +39,13 @@ You can enter the devShell by running:
   nix develop
 `
 
-Or if direnv is anabeld:
+Or if direnv is enabled:
 
 ```
   direnv allow
 ```
 
-You can test the CI localy.
+You can test the CI locally.
 
 Build the site:
 
