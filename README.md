@@ -19,7 +19,21 @@ Contributions are very welcome.
 English is not my native language and I have dyslexia. 
 If you find a spell mistake, please submit an issue or pull request.
 
-Contributing is easy. 
+### Make an issue
+
+Opening an issue is the easiest way to contribute.
+
+1. [Create a new issue](https://github.com/sempruijs/coding-with-eyes-closed/issues/new).
+2. Copy the spell mistake from the book
+3. Write how to spell it rightly.
+4. Write in which chapter you found the spell mistake.
+5. Submit the issue.
+
+Thank you for contributing ♥
+
+### Make a pull request
+
+Opening a pull request is start forward.
 You do not have to install anything.
 This book is written in markdown and [mdbook](https://github.com/rust-lang/mdBook) generates a website out of it.
 
@@ -78,6 +92,8 @@ To check if the book looks good, you can run in the coding-with-eyes-closed dir:
 ```
 
 This will run a local server with the book and opens it in the default browser.
+
+Thank you for contributing ♥
 
 ### License
 
