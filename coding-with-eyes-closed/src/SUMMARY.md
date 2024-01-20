@@ -5,7 +5,7 @@
 - [Where to start?](03-0-start.md)
   - [Operating systems](03-1-operating-system.md)
   - [Screen readers](03-2-screen-reader.md)
-  - [Should I learn braille?](03-3-braille.md)
+  - [Do I need braille to code?](03-3-braille.md)
 - [Which tools are accessible?](04-0-tooling.md)
   - [Goodbye terminal life](04-1-terminal.md)
   - [What's the most accessible editor?](04-2-editor.md)

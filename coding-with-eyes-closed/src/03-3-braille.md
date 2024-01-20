@@ -28,9 +28,7 @@ Moving your hands between the braille display and the keyboard is slow. Yes you 
 You cannot code with your laptop sitting on your lap, because you need your braille display. 
 This seems as something that is not important but I like to code in the  train for example or solving a advent of code puzzle in the living room.
 
-Braille is slow. Not only reading braille but moving your hands between the braille display and the keyboard. Depending on a braille display is annoying too and it is expensive.
-
-Braille has also some benefits and it is relaxing to use. I want to give credit to [edequartel](https://github.com/edequartel) for learning me braille. 
-He makes cool stuff. He made software for the pi to learn braille and he is currently working on a IOS app to learn braille with a refreshable braille display. 
-The [braille pi](https://github.com/edequartel/BraillePiServer) and his new project [louis](https://github.com/edequartel/Louis).
+Braille is slow. Not only reading braille but moving your hands between the braille display and the keyboard. 
+Depending on a braille display is annoying too and it is expensive.
+You do not need braille to code.
 
