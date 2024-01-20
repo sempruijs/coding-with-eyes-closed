@@ -7,7 +7,7 @@ This book teaches the building blocks of a good coder without sight.
 Although this book is meant for people with an visual impairment, it can be interesting to read without an visual impairment.
 Coding with eyes closed becomes less of a magic trick and more practical on how you can be a coder with a visual impairment.
 
-[You can read the book here](https://codingwitheyesclosed.com).
+You can read the book on [codingwitheyesclosed.com]](https://codingwitheyesclosed.com).
 
 ### Getting help
 
