@@ -83,8 +83,5 @@ Bangs are shortcuts for the search-engine.
 Chat bots such as [chat gpt](https://openai.com/chatgpt) can boost your productivity significantly.
 Chat bots can scrape information from websites and format it in such a way that it can save you many minutes otherwise spent on googling.
 
-I do not use chat bots because I want the internet to be open as much as possible.
-
-
 Those where my tips. We've covered allot. The next chapter is the last technical chapter, we will talk about programming languages.
 Ready? Lets go!
