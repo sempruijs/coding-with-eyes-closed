@@ -1,35 +1,35 @@
 # Coding with eyes closed
 
 Book for rehabilitative coders.
-If you cannot code anymore because of an visual impairment, this book is for you.
+If you cannot code anymore because of a visual impairment, this book is for you.
 This book teaches the building blocks of a good coder without sight.
 
 Although this book is meant for people with an visual impairment, it can be interesting to read without an visual impairment.
 Coding with eyes closed becomes less of a magic trick and more practical on how you can be a coder with a visual impairment.
 
-You can the [the book here](https://sempruijs.github.io/coding-with-eyes-closed/).
+[You can read the book here](https://sempruijs.github.io/coding-with-eyes-closed/).
 
 ### Getting help
 
-If you have any questions regarding the book or how people code with eyes closed, you can ask on [the coding with eyes closed matrix server](https://matrix.to/#/%23coding-with-eyes-closed:matrix.org).
+If you have any questions regarding the book or how people code with eyes closed, you can ask on [the matrix server](https://matrix.to/#/%23coding-with-eyes-closed:matrix.org).
 
 ### Contributing
 
 Contributions are very welcome.
 English is not my native language and I have dyslexia. 
-If you find a spell mistake, please submit an issue or pull request.
+If you find a spelling mistake, please submit an issue or pull request.
 
 ### Make an issue
 
 Opening an issue is the easiest way to contribute.
 
 1. [Create a new issue](https://github.com/sempruijs/coding-with-eyes-closed/issues/new).
-2. Copy the spell mistake from the book
+2. Copy the spelling mistake from the book
 3. Write how to spell it rightly.
-4. Write in which chapter you found the spell mistake.
+4. Write in which chapter you found the spelling mistake.
 5. Submit the issue.
 
-Thank you for contributing ♥
+Thank you for contributing! ♥
 
 ### Make a pull request
 
@@ -39,7 +39,7 @@ This book is written in markdown and [mdbook](https://github.com/rust-lang/mdBoo
 
 ##### How to fix a spell mistake
 
-All these actions can be accomplished just on the GitHub website
+All these actions can be accomplished done just on the GitHub website.
 
 1. Fork the repository
 2. Change content of the markdown file as you wish.
@@ -51,17 +51,17 @@ All these actions can be accomplished just on the GitHub website
 ##### NixOS
 
 This repository has a flake.
-Their is a devShell defined and also an .envrc.
+There is a devShell defined and also an .envrc.
 
 You can enter the devShell by running:
 
 ```shell
   nix develop
-`
+```
 
 Or if direnv is enabled:
 
-```
+```shell
   direnv allow
 ```
 
@@ -93,7 +93,7 @@ To check if the book looks good, you can run in the coding-with-eyes-closed dir:
 
 This will run a local server with the book and opens it in the default browser.
 
-Thank you for contributing ♥
+Thank you for contributing! ♥
 
 ### License
 
