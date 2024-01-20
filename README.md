@@ -7,6 +7,12 @@ This book teaches the building blocks of a good coder without sight.
 Although this book is meant for people with an visual impairment, it can be interesting to read without an visual impairment.
 Coding with eyes closed becomes less of a magic trick and more practical on how you can be a coder with a visual impairment.
 
+You can the [the book here](https://sempruijs.github.io/coding-with-eyes-closed/).
+
+### Getting help
+
+If you have any questions regarding the book or how people code with eyes closed, you can ask on [the coding with eyes closed matrix server](https://matrix.to/#/%23coding-with-eyes-closed:matrix.org).
+
 ### Contributing
 
 Contributions are very welcome.
@@ -72,10 +78,6 @@ To check if the book looks good, you can run in the coding-with-eyes-closed dir:
 ```
 
 This will run a local server with the book and opens it in the default browser.
-
-### Getting help
-
-If you have any questions regarding the book or how people code with eyes closed, you can ask on [the coding with eyes closed matrix server](https://matrix.to/#/%23coding-with-eyes-closed:matrix.org).
 
 ### License
 
