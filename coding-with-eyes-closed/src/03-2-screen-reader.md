@@ -8,7 +8,7 @@ According to the definition of [wikipedia](https://en.wikipedia.org/wiki/Screen_
 
 _"A screen reader is a form of assistive technology that renders text and image content as speech or braille output."_
 
-If you do not like those voices of a screen reader, you still need a screen reader because it is also used for braille.
+If you don't like the voices of a screen reader, you still need one because it is also used for braille.
 
 Here are some sources if you want to learn more about screen readers:
 
