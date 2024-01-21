@@ -19,7 +19,7 @@ God gave me through his love so much. Such as:
 - [cor](https://github.com/cor) who motivated me and supported me on my nixos and rust journey.
 - My family for emotional support and motivation.
 
-And he gave amazing contributers:
+And he gave amazing contributors:
 
 - [AntObr](https://github.com/AntObr)
 
