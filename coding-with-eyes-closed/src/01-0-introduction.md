@@ -14,7 +14,7 @@ I believe that if you like to code, you can do this.
 This book is meant for people who depend on screen reader and text-to-speech (TTS) technology.
 It has useful elements for people with partial sight, but it is mostly meant for people who have little to no vision.
 I believe that how people with partial sight use technology comes closer to how a visual person would use technology.
-If you come from a sighted world and now depend on TTS, programming is way harder dan working with magnifications for example. 
+If you come from a sighted world and now depend on TTS, programming is way harder than working with magnifications for example. 
 
 I can now use my sight with magnifications., but programming with little to no sight made me a better programmer, because I had to be really careful where I had to put my functions, which made me better at thinking about separation of concern.
 
