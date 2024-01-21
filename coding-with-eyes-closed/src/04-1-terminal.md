@@ -13,7 +13,7 @@ Sadly for us, people can very creative with just a grid of characters.
 
 #### Problem 1: We cannot filter strings precise enough to work fast with terminals
 
-```neofetch``` is a TUI that prints information about your system. 
+Neofetch is a TUI that prints information about your system. 
 On the left a ASCII art logo of your operating system and on the right information about your system.
 This is great for people with sight but for people like us that logo is distracting. 
 If that string is read to us, we hear something like: 
@@ -25,7 +25,11 @@ OS: macOS 13.4.1 22F82 arm64:MMMMMMMMMMMMMMMMMMMMMMMM: DE: Aqua .MMMMMMMMMMMMMMM
 There is allot of garbage in this string and we do not know how to filter it.
 
 Here is another example: we want to know the file permissions of a file called ```zellij.md```. 
-We know it is in our home directory so we run the ```ls -la``` command. 
+We know it is in our home directory so we run the the following command:
+
+```shell
+ls -la
+``` 
 
 First all other files are read before the file that starts with the z is read. 
 Now we have to wait and here all other permissions before we here the file we need.
