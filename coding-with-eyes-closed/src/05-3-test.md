@@ -9,7 +9,7 @@ A visual impaired coder maybe makes a mistake in 1 of 3 functions.
 
 But whatever your skill level may be, you make mistakes. Their are functions that do not behave as you wish they did.
 Good coders compensate their mistakes with unit tests. 
-Because good coders do not make so many mistakes as we do, they do not depend on tests so much as we do so allot of people skip them.
+Because good coders do not make so many mistakes as we do, they do not depend on tests so much as we do so a lot of people skip them.
 
 Here is where we as visual impaired coders can turn their disadvantage (introducing more bugs) in to a advantage.
 We need our tests in order to work. 

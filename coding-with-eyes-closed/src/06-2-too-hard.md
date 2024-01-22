@@ -3,7 +3,7 @@
 I really doubted if coding with eyes closed was a thing that would work for me.
 Luckily I grinded until I could code with eyes closed and I am very happy that I can make whatever I want.
 
-Coding is still allot of fun with eyes closed. 
+Coding is still a lot of fun with eyes closed. 
 For me the fun part is coming up with solutions to problems.
 That is a game that you play in your mind. Not on a screen.
 

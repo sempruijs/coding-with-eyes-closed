@@ -24,7 +24,7 @@ Then they think, Ohh this is going quite well! Lets make a website!
 
 But then they should center a image in a div and they are googeling from sunrise to sunset combining all sorts of copy pasta answers from stack overflow without knowing what actually happens or what it means.
 
-This is what allot of people do, coders laugh about a how to center div css joke and they go on with their stupid google everything together mentality.
+This is what a lot of people do, coders laugh about a how to center div css joke and they go on with their stupid google everything together mentality.
 
 If you want to learn css, read a book about it and then learn by doing.
 
@@ -83,5 +83,5 @@ Bangs are shortcuts for the search-engine.
 Chat bots such as [chat gpt](https://openai.com/chatgpt) can boost your productivity significantly.
 Chat bots can scrape information from websites and format it in such a way that it can save you many minutes otherwise spent on googling.
 
-Those where my tips. We've covered allot. The next chapter is the last technical chapter, we will talk about programming languages.
+Those where my tips. We've covered a lot. The next chapter is the last technical chapter, we will talk about programming languages.
 Ready? Lets go!

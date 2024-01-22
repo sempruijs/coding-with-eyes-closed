@@ -27,7 +27,7 @@ The book also contains exercises, to get you up and running.
 
 ### How you should read this book.
 
-You have to learn allot of things when you lose your sight practically and emotionally.
+You have to learn a lot of things when you lose your sight practically and emotionally.
 That is why I made a very efficient way to read this book.
 
 To follow the fastest path possible to code with eyes closed, go to [the cheat sheet section](https://codingwitheyesclosed.com/09-0-cheat-sheet.html) and read it and follow the advice.
