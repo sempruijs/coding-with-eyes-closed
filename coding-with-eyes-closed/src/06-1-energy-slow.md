@@ -25,7 +25,7 @@ In the beginning I was very slow too. I just wrote like 5 lines a day. Visualizi
 Take a break now and then.
 If you have partial sight, it is okay to take a power nap.
 
-For me buying a new monitor helped allot with energie. 
+For me buying a new monitor helped a lot with energie. 
 I bought a monitor with high contrast and I high DPI so that the text is sharp and easy to read.
 
 The important thing is that you should not compare yourself too much with sighted people.

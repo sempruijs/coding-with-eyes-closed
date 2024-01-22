@@ -22,7 +22,7 @@ If that string is read to us, we hear something like:
 OS: macOS 13.4.1 22F82 arm64:MMMMMMMMMMMMMMMMMMMMMMMM: DE: Aqua .MMMMMMMMMMMMMMMMMMMMMMMMX. WM: Quartz Compositor kMMMMMMMMMMMMMMMMMMMMMMMMWd.
 ```
 
-There is allot of garbage in this string and we do not know how to filter it.
+There is a lot of garbage in this string and we do not know how to filter it.
 
 Here is another example: we want to know the file permissions of a file called ```zellij.md```. 
 We know it is in our home directory so we run the the following command:
@@ -34,7 +34,7 @@ ls -la
 First all other files are read before the file that starts with the z is read. 
 Now we have to wait and here all other permissions before we here the file we need.
 
-I believe this is fixable by adding flags to the ls commands to filter it or piping the output in another cli that can filter only that specific line but it costs allot of time because you need to think how you are going to filter that string to find what you need.
+I believe this is fixable by adding flags to the ls commands to filter it or piping the output in another cli that can filter only that specific line but it costs a lot of time because you need to think how you are going to filter that string to find what you need.
 Visual people would only do that with strings that are longer then 100 lines, but we need a filter with 10 and that is time consuming.
 
 You can find a workaround but it does not feel natural.

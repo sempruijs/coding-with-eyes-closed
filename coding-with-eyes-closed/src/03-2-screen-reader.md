@@ -46,7 +46,7 @@ Feel free to experiment, you'll have to figure out what works for you. Here are 
 #### Windows
 
 If you are on windows, use [NVDA](https://www.nvaccess.org/download/). It is fast, open source and free.
-You have other options, but they are slow and too complex and crash allot. NVDA is not only free, it is better then the payed options.
+You have other options, but they are slow and too complex and crash a lot. NVDA is not only free, it is better then the payed options.
 
 #### Mac
 
