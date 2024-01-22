@@ -22,6 +22,7 @@ God gave me through his love so much. Such as:
 And he gave amazing contributors:
 
 - [AntObr](https://github.com/AntObr)
+- [btotr](https://github.com/btotr)
 
 God bless all these people who helped me so much 🙏❤️👨‍🦯
 
