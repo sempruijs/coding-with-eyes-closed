@@ -3,7 +3,7 @@
 I wrote my first line of code when I was about 11 years old. I had a great interest in ios app development and making games in unity.
 Game development was nice because I could make the art, music and the code by myself.
 
-But this all changed about 2 years ago. 
+But this all changed about two years ago. 
 I was diagnosed with Leber Hereditary Optic Neuropathy (LHON). 
 This is a genetic disease which brought my vision from 100% to 1% in 6 months.
 I was 16 and I had to do things differently. 
