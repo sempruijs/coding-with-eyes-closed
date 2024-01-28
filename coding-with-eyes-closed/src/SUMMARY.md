@@ -12,7 +12,7 @@
   - [Navigating websites](04-3-websites.md)
 - [What language should I use?](05-0-language.md)
   - [The compiler is your sight](05-1-compiler.md)
-  - [Why dynamic types are even worse for someone with an visual impairment](05-2-dts.md)
+  - [Why dynamic types are even worse for someone with a visual impairment](05-2-dts.md)
   - [Why tests are so important for us](05-3-test.md)
   - [Make build pipelines that last](05-4-build-pipeline.md)
 - [Overcoming obstacles](06-0-obstacles.md)

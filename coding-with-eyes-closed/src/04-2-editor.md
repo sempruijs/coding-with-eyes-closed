@@ -38,7 +38,7 @@ Why? Because we only see 1 line at a time and it takes more time to understand w
 We want to be as productive as possible so we need to navigate to the right line as fast as possible.
 Language servers helps you do that.
 
-Lets say you have an error and no language server.
+Let's say you have an error and no language server.
 You have to read the error message of the compiler, which is most of the time in the terminal.
 Then you know the error, and you need to navigate to the right line in the right file. That costs time.
 
