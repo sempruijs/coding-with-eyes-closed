@@ -13,7 +13,7 @@ My eye disease brought me to Jesus who gave me strength to write this book and m
 God gave me through his love so much. Such as:
 
 - [bartimeus](https://bartimeus.nl) who learned me tips and tricks about screen readers, mobility and emotional support.
-- [mike](https://retro-kingdom.nl/over-ons) who give me very helpful tips for coding with eyes closed. I do not know where I would've been without his tips, especially his braille advice.
+- [mike](https://retro-kingdom.nl/over-ons) who gave me very helpful tips for coding with eyes closed. I do not know where I would've been without his tips, especially his braille advice.
 - [eric](https://github.com/edequartel) who learned me braille with his amazing [braille pi](https://github.com/edequartel/BraillePiServer).
 - [jurriaan](https://github.com/qlp) for emotional and financial support and managing my cables when I could not see them :)
 - [cor](https://github.com/cor) who motivated me and supported me on my nixos and rust journey.
