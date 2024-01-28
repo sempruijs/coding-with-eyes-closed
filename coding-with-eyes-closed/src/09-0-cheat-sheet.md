@@ -44,7 +44,7 @@ You can see only a small portion of a script, so you should use the compiler as 
 
 Dynamic types are blind. You are blind too. Dynamic types cannot lead you in the dark.
 Use static typed languages. Such as Java, Kotlin, Rust and many others.
-[5.2 Why dynamic types are even worse for some with an visual impairment](https://codingwitheyesclosed.com/05-2-dts.html)
+[5.2 Why dynamic types are even worse for some with a visual impairment](https://codingwitheyesclosed.com/05-2-dts.html)
 
 Use unit test as your sight. Write as many as possible. 
 This makes debugging relatively easy.
