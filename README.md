@@ -33,7 +33,7 @@ Thank you for contributing! ♥
 
 ### Make a pull request
 
-Opening a pull request is start forward.
+Opening a pull request is straightforward.
 You do not have to install anything.
 This book is written in markdown and [mdbook](https://github.com/rust-lang/mdBook) generates a website out of it.
 
