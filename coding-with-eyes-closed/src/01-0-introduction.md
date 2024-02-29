@@ -22,7 +22,7 @@ This book is highly opinionated.
 I will give advice based on my own experiences with my use of TTS technology.
 I had little to no sight between 2021 and 2023. 
 The accessibility field is moving fast, and my recommendations regarding tooling will some day be outdated. 
-It contains recommendations about tooling, but also tips that are still useful 20 years from now.
+It contains recommendations about tooling, but also tips that will still be useful 20 years from now.
 The book also contains exercises, to get you up and running.
 
 ### How you should read this book.
@@ -39,7 +39,7 @@ If you have sight but you want to learn how you can make your infrastructure mor
 Of course, you can also read this book from beginning to end.
 
 This book gives advice, and every good coder experiments with tooling and languages to find a way that works best for them.
-That is no different for coders with eyes closed.
+That is no different for coders with their eyes closed.
 Experiment on your journey but not too much. Else you will waste your time.
 
 ### Getting help
@@ -52,7 +52,7 @@ Please ask your questions on the [matrix server](https://matrix.to/#/%23coding-w
 
 ### Supporting this project
 
-Their are a few ways you can support this project.
+There are a few ways you can support this project.
 
 - Opening a pull request or issue. English is not my native language and I have dyslexia. If you find a spell mistake, please submit an issue or pull request on [the repo](https://github.com/sempruijs/coding-with-eyes-closed).
 - [Star the repository](https://github.com/sempruijs/coding-with-eyes-closed). This way more people can find the book.
