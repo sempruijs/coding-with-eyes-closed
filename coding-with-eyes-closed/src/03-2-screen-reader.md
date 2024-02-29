@@ -19,14 +19,14 @@ Here are some sources if you want to learn more about screen readers:
 ### I don't need a screen reader
 
 Screen readers are extremely useful. Even if you have enough sight to read large text.  It is useful. Here is why. 
-Visually impaired users do not only have an problem with their eyes, they have a problem with energie through out the day. 
-You need twice as much energie to perform a task then visual people. If you want to be productive, you need to optimize as much as possible not only to be faster, but to save energie so you can invest it in the right type of activity.
-When I am coding, I need my energie for coming up with a good, elegant and scalable solution.
-That energie should not go in reading text on your screen. 
+Visually impaired users do not only have an problem with their eyes, they have a problem with energy through out the day. 
+You need twice as much energy to perform a task than visual people. If you want to be productive, you need to optimize as much as possible to not only be faster, but to save energy so you can invest it in the right type of activity.
+When I am coding, I need my energy for coming up with a good, elegant and scalable solution.
+That energy should not go in reading text on your screen. 
 
-Now that I have more sight, I use large text in my editor, but I still read documentation with a screen reader because it costs less energie.
+Now that I have more sight, I use large text in my editor, but I still read documentation with a screen reader because it costs less energy.
 
-If you are visually impaired, learn how to use a screen reader. It is a bit of a investment, but you earn it back with having more energie for solving problems.
+If you are visually impaired, learn how to use a screen reader. It is a bit of an investment, but you earn it back with having more energy for solving problems.
 
 
 ## Give me a screen reader!
@@ -46,13 +46,13 @@ Feel free to experiment, you'll have to figure out what works for you. Here are 
 #### Windows
 
 If you are on windows, use [NVDA](https://www.nvaccess.org/download/). It is fast, open source and free.
-You have other options, but they are slow and too complex and crash a lot. NVDA is not only free, it is better then the payed options.
+You have other options, but they are slow and too complex and crash a lot. NVDA is not only free, but it is better then the payed options.
 
 #### Mac
 
 I like VoiceOver the most. Navigating is fast, you do not have to install anything and grouping elements makes finding the right button very easy.
 
-If you want to learn VoiceOver for mac, press ```CMD F5```, follow the build-in tutorial and read the [VoiceOver user guide](https://support.apple.com/guide/voiceover/welcome/mac)
+If you want to learn VoiceOver for mac, press ```CMD F5```, follow the built-in tutorial and read the [VoiceOver user guide](https://support.apple.com/guide/voiceover/welcome/mac)
 
 #### Linux
 
