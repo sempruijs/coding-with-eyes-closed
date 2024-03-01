@@ -23,6 +23,7 @@ And he gave amazing contributors:
 
 - [AntObr](https://github.com/AntObr)
 - [btotr](https://github.com/btotr)
+- [silvanboone](https://github.com/silvanboone)
 
 God bless all these people who helped me so much 🙏❤️👨‍🦯
 
